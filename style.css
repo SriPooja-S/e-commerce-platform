@@ -1,0 +1,104 @@
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .zeyada-regular {
+    font-family: "Zeyada", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+nav
+{
+    display: inline;   
+    
+}
+h1,ul,li
+{
+    display: inline;
+}
+li{
+    padding-left: 20px;
+    color:gray;
+    cursor: pointer;
+} 
+ul
+{ 
+   
+    margin-left: 60%;
+}
+li:hover
+{
+    color:white;
+}
+.searchbar
+{
+    padding: 50px;
+    text-align: center;
+}
+input
+{
+    width: 60%;
+    padding: 20px;   
+}
+.box
+{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width:220px;
+    margin-left: 20px;
+    margin: 50px;
+}
+.box:hover
+{
+    color:white;
+    background-color: black;
+}
+.abt
+{
+     font-family:  cursive; 
+}
+
+.name
+{
+    font-family: "Zeyada", cursive;
+    font-size: 25px;
+}
+.products
+{
+    text-align: center;
+}
+.about
+{
+   text-align: center;
+    margin-top: 30px;
+    padding: 25px;
+}
+.contact
+{
+    color:white;
+    background-color: black;
+}
+
+h3,h2{text-align: center;}
+h2{
+    padding: 10px;
+}
+.c{
+    padding: 10px;
+    color: gray;  
+}
